@@ -1,18 +1,18 @@
 title: 권재현
-description: 웹 개발
-site_title: '@abhn - Abhishek Nagekar'
+description: 웹 개발 포트폴리오
+site_title: '권재현의 포트폴리오 입니다.'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: 권재현
 blog_url: https://kyzz339.github.io
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: kyzz339@naver.com
+keybase_username: 
+twitter_username: 
+reddit_username: 
 
 # absolute or relative
 profile_picture: assets/images/jaehyun.jpg
