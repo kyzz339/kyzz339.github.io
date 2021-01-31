@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Usedthing',
             demo: 'https://mporter.co',
             technologies: ['Java', 'Spring Framework', 'Mysql'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "",
             categories: ['featured', 'webdev']
         },
         
