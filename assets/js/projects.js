@@ -10,7 +10,7 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
-        {
+        { 
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/abhn/Mporter',
             title: 'Mporter',
