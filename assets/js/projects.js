@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/kyzz339/usedthing',
             title: 'Usedthing',
             /*demo: 'https://mporter.co',*/
-            technologies: ['Spring Framework', 'Mysql','RestAPI'],
+            technologies: ['Spring Framework','Mysql','RestAPI'],
             description: "사용자간 중고거래를 더 쉽게 중개해주는 웹사이트",
             categories: ['featured', 'webdev']
         },
