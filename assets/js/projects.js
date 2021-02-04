@@ -14,9 +14,9 @@ let render_projects = (slug) => {
             image: 'assets/images/usedthing.PNG',
             link: 'https://github.com/kyzz339/usedthing',
             title: 'Usedthing',
-            demo: 'https://mporter.co',
+            /*demo: 'https://mporter.co',*/
             technologies: ['Java', 'Spring Framework', 'Mysql'],
-            description: "",
+            description: "사용자간 중고거래를 더 쉽게 중개해주는 웹사이트",
             categories: ['featured', 'webdev']
         },
         
