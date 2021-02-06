@@ -60,7 +60,7 @@ let project_mapper = project => {
                         ${project.technologies.map(tech =>
                             `<span class="project-technology paragraph-text-normal">${tech}</span>`
                         ).join('')}
-                    </div>
+                    </div><br>
                     <div class="git_button">
                     	<button type="button" class="semi-transparent-button1 with-border nav-links" onclick="location.href='${project.link}'">Contact</button>
                     </div>
