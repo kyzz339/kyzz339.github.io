@@ -61,7 +61,9 @@ let project_mapper = project => {
                             `<span class="project-technology paragraph-text-normal">${tech}</span>`
                         ).join('')}
                     </div>
-
+                    <div class="git_button">
+                    	<button type="button" onclick="location.href='${project.link}'">Contact</button>
+                    </div>
                 </div>
             </div>
         </div>
