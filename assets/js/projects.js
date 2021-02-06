@@ -62,7 +62,7 @@ let project_mapper = project => {
                         ).join('')}
                     </div><br>
                     <div class="git_button">
-                    	<button type="button" class="semi-transparent-button1 with-border nav-links" onclick="location.href='${project.link}'">Contact</button>
+                    	<button type="button" class="semi-transparent-button1" onclick="location.href='${project.link}'">Contact</button>
                     </div>
                 </div>
             </div>
