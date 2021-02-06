@@ -13,8 +13,29 @@
   letter-spacing: 1px;
   transition: all 0.1s ease-out;
 }
+.semi-transparent-button1 {
+  display: block;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 8px;
+  max-width: 160px;
+  min-width: 120px;
+  background: #444; /* fallback color for old browsers */
+  border-radius: 2px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: all 0.1s ease-out;
+}
 .semi-transparent-button:hover,
 .semi-transparent-button:active {
+  background: #fff;
+  color: #444;
+  transition: all 0.1s ease-in;
+}
+.semi-transparent-button1:hover,
+.semi-transparent-button1:active {
   background: #fff;
   color: #444;
   transition: all 0.1s ease-in;
