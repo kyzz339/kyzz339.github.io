@@ -53,7 +53,7 @@ let project_mapper = project => {
                         <h2><a href="${project.link}">${project.title}</a></h2>
         
                         <p class="paragraph-text-normal">${project.description}</p><br>
-                        <p>일반회원 CRUD, 이메일 인증, kakao 우편번호 시스템, 상품CRUD,REST API를 통한 댓글,다중이미지 업로드, 쪽지기능,  </p>
+                        <p>일반회원 CRUD, 이메일 인증, kakao 우편번호 시스템, 상품CRUD,REST API를 통한 댓글,다중이미지 업로드, 쪽지기능</p>
                     </article>
 
                                 
